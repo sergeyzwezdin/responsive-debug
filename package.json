@@ -1,7 +1,7 @@
 {
   "name": "responsive-debug",
-  "version": "0.2.1",
-  "description": "Utility to debug responsive layout",
+  "version": "0.2.4",
+  "description": "The simple utility to debug a responsive layout",
   "main": "dist/index.js",
   "repository": "https://github.com/sergeyzwezdin/responsive-debug",
   "author": "Sergey Zwezdin <sergey@zwezdin.com> (https://zwezdin.com)",
@@ -13,12 +13,25 @@
   },
   "devDependencies": {
     "@types/node": "^12.7.12",
-    "cross-env": "^6.0.3",
     "tslint": "^5.20.0",
     "tslint-config-airbnb": "^5.11.2",
     "typescript": "^3.6.4"
   },
   "files": [
     "dist/**/*.*"
+  ],
+  "keywords": [
+    "front-end",
+    "frontend",
+    "web",
+    "responsive",
+    "responsive-ui",
+    "mobile-first",
+    "layout",
+    "media query",
+    "media",
+    "matchmedia",
+    "match-media",
+    "debug"
   ]
 }
