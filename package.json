@@ -1,0 +1,24 @@
+{
+  "name": "responsive-debug",
+  "version": "0.2.0",
+  "description": "Utility to debug responsive layout",
+  "main": "index.js",
+  "repository": "https://github.com/sergeyzwezdin/responsive-debug",
+  "author": "Sergey Zwezdin <sergey@zwezdin.com> (https://zwezdin.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc",
+    "lint": "tslint -c ./tslint.json './src/**/*.ts*'"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.12",
+    "cross-env": "^6.0.3",
+    "tslint": "^5.20.0",
+    "tslint-config-airbnb": "^5.11.2",
+    "typescript": "^3.6.4"
+  },
+  "files": [
+    "dist/**/*.*"
+  ]
+}
