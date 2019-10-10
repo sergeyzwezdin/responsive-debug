@@ -5,7 +5,7 @@ The simple utility to debug a responsive layout. It allows:
 - Display current root element font size (useful for `rem`/`em`)
 - Display current responsive break
 
-<img src="media/demo.gif" />
+<img src="https://raw.githubusercontent.com/sergeyzwezdin/responsive-debug/master/media/demo.gif" />
 
 ## Usage
 
