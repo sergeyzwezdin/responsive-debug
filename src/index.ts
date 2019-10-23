@@ -1,3 +1,5 @@
+import 'custom-event-polyfill';
+
 const rewriteMediaQuery = (source: string) => {
     const fontSize = parseFloat(window.getComputedStyle(document.body).getPropertyValue('font-size'));
     return source.replace(/[\d\.]+r?em/gi, (t) => `${t} / ${fontSize * parseFloat(t)}px`);
