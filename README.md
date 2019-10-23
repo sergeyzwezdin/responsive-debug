@@ -1,5 +1,8 @@
 # Responsive Debug
 
+[![Build Status](https://github.com/sergeyzwezdin/responsive-debug/workflows/Build/badge.svg?branch=master)](https://github.com/sergeyzwezdin/responsive-debug/actions?workflow=Build)
+
+
 The simple utility to debug a responsive layout. It allows:
 - Display current window width
 - Display current root element font size (useful for `rem`/`em`)
