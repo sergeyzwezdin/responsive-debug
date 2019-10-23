@@ -1,6 +1,6 @@
 {
   "name": "responsive-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The simple utility to debug a responsive layout",
   "main": "dist/index.js",
   "repository": "https://github.com/sergeyzwezdin/responsive-debug",
