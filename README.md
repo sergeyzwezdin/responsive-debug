@@ -1,6 +1,7 @@
 # Responsive Debug
 
 [![Build Status](https://github.com/sergeyzwezdin/responsive-debug/workflows/Build/badge.svg?branch=master)](https://github.com/sergeyzwezdin/responsive-debug/actions?workflow=Build)
+[![NPM](https://img.shields.io/npm/dy/responsive-debug?label=NPM%20downloads&logo=npm)](https://www.npmjs.com/package/responsive-debug)
 
 
 The simple utility to debug a responsive layout. It allows:
